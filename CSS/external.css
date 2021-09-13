@@ -1,0 +1,26 @@
+body{background-color: lightblue;}
+ul{
+background-color: whitesmoke;}
+
+
+.i1{
+	position: relative;
+	left: 1000px;
+	bottom: 120px;
+}
+.i2{
+	position: relative;
+	left: 1000px;
+	bottom: 120px;
+}
+.i3{position: relative;
+	left: 1000px;
+	bottom: 120px;}
+	.i4{
+		position: relative;
+	left: 1000px;
+	bottom: 120px;
+	}
+	.i5{position: relative;
+	left: 1000px;
+	bottom: 120px;}
